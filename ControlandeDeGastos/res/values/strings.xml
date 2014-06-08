@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Controle de Gastos</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">Nome:</string>
+    <string name="salario">Salário:</string>
+    <string name="totalGatos">Valor Depesas:</string>
+    <string name="salAtual">Saldo Atual:</string>
+    <string name="inserirDesp">Inserir Despesa</string>
+    <string name="despesa">Minhas Depesas</string>
+    <string name="title_activity_despesa">Despesa</string>
+    <string name="descricao">Descricao:</string>
+    <string name="valor">Valor:</string>
+    <string name="salvar">salvar</string>
+    
+
+</resources>
